@@ -1,0 +1,175 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "title": "Adidas Ultra Boost 20",
+            "category": "Running Shoes",
+            "image": "https://assets.adidas.com/images/w_600,f_auto,q_auto/0584c1909c9d4dd2a9c0aab700726a3c_9366/Ultra_Boost_20_Shoes_White_FV9295_01_standard.jpg",
+            "description": "The Adidas Ultra Boost 20 is a running shoe with a responsive and cushioned feel.",
+            "Price": 180,
+            "amount": 1
+        },
+        {
+            "id": 2,
+            "title": "Nike Air Zoom Pegasus 38",
+            "category": "Running Shoes",
+            "image": "https://c.static-nike.com/a/images/t_PDP_1280_v1/f_auto/i1-b5cf633b-6b15-4c5c-9d99-67a28f86a9c9/air-zoom-pegasus-38-running-shoe-CKJp7S.jpg",
+            "description": "The Nike Air Zoom Pegasus 38 is a durable and comfortable running shoe. It features a Zoom Air unit in the heel for responsive cushioning, a lightweight and breathable upper, and a durable rubber outsole.",
+            "price": 120,
+            "amount":1
+        },
+        {
+            "id": 3,
+            "title": "Bose QuietComfort 35 II Wireless Headphones",
+            "category": "Headphones",
+            "image": "https://assets.bose.com/content/dam/Bose_DAM/Web/consumer/global/products/headphones/quietcomfort_35_ii/product_silo_images/quietcomfort_35_ii_product_silo_black.png",
+            "description": "The Bose QuietComfort 35 II Wireless Headphones offer noise cancelling technology and comfortable fit. They have Alexa and Google Assistant voice control built-in, up to 20 hours of battery life, and a durable design.",
+            "price": 329,
+            "amount": 1
+        },
+        {
+            "1d": 4,
+            "title": "Canon EOS Rebel T8i DSLR Camera",
+            "category": "Cameras",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61rN6%2BsoszL._AC_SL1500_.jpg",
+            "description": "The Canon EOS Rebel T8i DSLR Camera is a high-performance camera for capturing stunning photos and videos. It features a 45-point all cross-type AF system, a 24.1 MP APS-C CMOS sensor, and Dual Pixel CMOS AF for smooth and fast focusing.",
+            "price": 749,
+            "amount": 1
+        },
+        {
+            "id": 5,
+            "title": "Beats by Dr. Dre Solo Pro Wireless Headphones",
+            "category": "Headphones",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71%2BV7oEJp-L._AC_SL1500_.jpg",
+            "description": "The Beats by Dr. Dre Solo Pro Wireless Headphones are stylish and comfortable headphones with active noise cancelling technology. They have up to 22 hours of battery life, fast fuel charging, and hands-free Siri and Google Assistant integration.",
+            "price": 299,
+            "amount": 1
+        },
+        {
+            "id": 6,
+            "title": "Microsoft Surface Laptop Go",
+            "category": "Laptops",
+            "image": "https://compass-ssl.microsoft.com/assets/f3/16/f316b8c0-1611-4572-b6c7-8acfb71f9c65.jpg?n=Surface-Laptop-Go-Family_Hero-Gallery-1920x1080_1050x595.jpg",
+            "description": "The Microsoft Surface Laptop Go is a lightweight and compact laptop that's great for on-the-go use. It features a 12.4-inch touchscreen display, an Intel Core i5 processor, and a battery life of up to 11 hours.",
+            "price": 549,
+            "amount": 1
+        },
+        {
+            "id": 7,
+            "title": "Samsung Galaxy S21 Ultra 5G",
+            "category": "Smartphones",
+            "image": "https://image-us.samsung.com/SamsungUS/home/galaxy/galaxy-s21/5g/S21-5G-Front-Phantom-Silver-Black.jpg?$default-jpg$",
+            "description": "The Samsung Galaxy S21 Ultra 5G is a powerful and feature-packed smartphone. It features a 6.8-inch Dynamic AMOLED 2X display, a Snapdragon 888 processor, and support for 5G networks.",
+            "price": 1199,
+            "amount": 1
+        },
+        {
+            "id": 8,
+            "title": "Fitbit Charge 4 Fitness Tracker",
+            "category": "Fitness Trackers",
+            "image": "https://fitbit.com/charge4/assets/images/charge4/fitbit-charge4-special-edition-hero.jpg",
+            "description": "The Fitbit Charge 4 Fitness Tracker is a versatile and waterproof fitness tracker. It has GPS built-in, can track your heart rate and activity levels, and has up to 7 days of battery life.",
+            "price": 149,
+            "amount": 1
+        },
+        {
+            "id": 9,
+            "title": "Apple Watch Series 6",
+            "category": "Smartwatches",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/61L5L6S8c5L._AC_SL1500_.jpg",
+            "description": "The Apple Watch Series 6 is a powerful and feature-rich smartwatch. It features an always-on Retina display, GPS capabilities, and can track your health and fitness data.",
+            "price": 399,
+            "amount": 1
+        },
+        {
+            "id": 10,
+            "title": "DJI Mavic Air 2 Drone",
+            "category": "Drones",
+            "image": "https://www.dji.com/mavic-air-2/static/images/mavic-air-2-hero.jpg",
+            "description": "The DJI Mavic Air 2 Drone is a compact and easy-to-use drone that's great for aerial photography and videography. It has a 48 MP camera, 3-axis gimbal stabilizationization, and can fly for up to 34 minutes.",
+            "price": 799,
+            "amount": 1
+        },
+        {
+            "id": 11,
+            "title": "Bose SoundLink Mini II Portable Bluetooth Speaker",
+            "Category": "Portable Speakers",
+            "image ": "https://www.bose.com/content/dam/Bose_DAM/Web/consumer/global/products/portable_speakers/soundlink_mini_ii/product_silo_images/soundlink_mini_ii_product_silo.psd/jcr:content/renditions/cq5dam.web.320.320.jpeg",
+            "description": "The Bose SoundLink Mini II Portable Bluetooth Speaker is a compact and powerful speaker that delivers high-quality sound. It has up to 10 hours of battery life and a range of up to 30 feet.",
+            "price": 149,
+            "amount": 1
+        },
+        {
+            "id": 12,
+            "title": "Nest Learning Thermostat",
+            "category": "Smart Home Devices",
+            "image": "https://www.google.com/nest/global/products/thermostat/Porch-003021/9e6cd447-a20f-42f1-87c7-12adbcd6680c-nest-learning-thermostat.jpg",
+            "descriptio": "The Nest Learning Thermostat is a smart thermostat that can learn your heating and cooling habits and automatically adjust the temperature in your home. It's easy to install and can be controlled from your smartphone.",
+            "price": 249,
+            "amount": 1
+        },
+        {
+            "id": 13,
+            "title": "Arlo Pro 3 2-Camera Kit",
+            "Category": "Smart Home Devices",
+            "image": "https://www.arlo.com/content/dam/global-en/products/pro3/left/pro3-left-perspective-1.png",
+            "description": "The Arlo Pro 3 2-Camera Kit is a wireless home security camera system. It features 2 high-definition cameras with night vision, a 160-degree viewing angle, and two-way audio",
+            "price": 449,
+            "amount": 1
+        },
+        {
+            "id": 14,
+            "title": "Nest Hello Video Doorbell",
+            "Category": "Smart Home Devices",
+            "image": "https://www.google.com/nest/global/products/doorbell/Porch-002317/0c1f44a5-f107-45f8-b7e3-d9ebc3767197-nest-hello-doorbell.jpg",
+            "description": "The Nest Hello Video Doorbell is a smart doorbell that allows you to see who's at your door from your smartphone. It features high-definition video, two-way audio, and night vision capabilities.",
+            "price": 229,
+            "amount": 1
+        },
+        {
+            "id": 15,
+            "title": "Logitech K830 Illuminated Living-Room Keyboard",
+            "Category": "Computer Accessories",
+            "image": "https://www.logitech.com/assets/59486/k830-illuminated-living-room-keyboard.png",
+            "description": "The Logitech K830 Illuminated Living-Room Keyboard is a wireless keyboard that's perfect for controlling your home entertainment system from the comfort of your couch. It features an easy-to-read illuminated keyboard, multi-device Bluetooth connectivity, and a touchpad for easy navigation.",
+            "price": 89,
+            "amount": 1
+        },
+        {
+            "id": 16,
+            "title": "Belkin Boost↑Charge Pro 3-in-1 Wireless ",
+            "category": "Mobile Accessories",
+            "image": "https://www.belkin.com/dw/image/v2/BFS/library/content/dam/Belkin/products/F7U273TT_BLK/738986-Product-1-Large.png?sw=582&sh=582&sm=fit",
+            "description": "The Belkin Boost↑Charge Pro 3-in-1 Wireless Charger is a versatile charging solution for all your devices. It can charge up to three devices at once, including iPhones, AirPods, and Apple Watches.",
+            "price": 129,
+            "amount": 1
+        },
+        {
+            "id": 17,
+            "title": "Anker PowerCore 10000 Portable Charger",
+            "Category": "Mobile Accessories",
+            "image": "https://images-na.ssl-images-amazon.com/images/I/71nSdNgRqqL._SL1500_.jpg",
+            "description": "The Anker PowerCore 10000 Portable Charger is a compact and powerful portable charger that can charge your devices on-the-go. It features high-speed charging and a long battery life.",
+            "price": 29,
+            "amount": 1
+        },
+        {
+            "id": 18,
+            "title": "JBL Flip 5 Portable Bluetooth Speaker",
+            "category": "Portable Speakers",
+            "image": "https://www.jbl.com/dw/image/v2/AAUJ_PRD/on/demandware.static/-/Sites-masterCatalog_Harman/default/dwc1c7e0ed/JBL_Flip5_Hero_image.png?sw=582&sh=582&sm=fit",
+            "description": "The JBL Flip 5 Portable Bluetooth Speaker is a compact and powerful speaker that delivers high-quality sound. It has up to 12 hours of battery life and is waterproof, making it perfect for outdoor adventures.",
+            "price": 99,
+            "amount": 1
+        },
+        {
+            "id": 19,
+            "title": "Sony WH-1000XM4 Wireless Noise-Cancelling Headphones",
+            "category": "Headphones",
+            "image": "https://www.sony.com/image/10372046_001_0003?fmt=png-alpha&wid=768",
+            "description": "The Sony WH-1000XM4 Wireless Noise-Cancelling Headphones are premium headphones that deliver outstanding sound quality and noise cancellation. They feature long battery life, touch controls, and Alexa voice control.",
+            "price": 349,
+            "amount": 1
+        }
+    ]
+}
